@@ -1,0 +1,20 @@
+{
+    "background" : "#232323",
+    "black" : "#000000",
+    "blue" : "#579BD5",
+    "brightBlack" : "#797979",
+    "brightBlue" : "#9BDBFE",
+    "brightCyan" : "#2BC4E2",
+    "brightGreen" : "#1AD69C",
+    "brightPurple" : "#DF89DD",
+    "brightRed" : "#F6645D",
+    "brightWhite" : "#EAEAEA",
+    "brightYellow" : "#F6F353",
+    "cyan" : "#00B6D6",
+    "foreground" : "#D3D3D3",
+    "green" : "#3FC48A",
+    "purple" : "#CA5BC8",
+    "red" : "#D8473F",
+    "white" : "#EAEAEA",
+    "yellow" : "#D7BA7D"
+}
